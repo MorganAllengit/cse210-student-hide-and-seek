@@ -5,7 +5,7 @@ class Console:
     class of objects is to get text or numerical input and display text output.
     
     Stereotype:
-        Service Provider, Interfacer
+        Service Provider, Interfacer 
 
     Attributes:
         prompt (string): The prompt to display on each line.

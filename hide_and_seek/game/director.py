@@ -7,7 +7,7 @@ class Director:
     this class of objects is to control the sequence of play.
     
     Stereotype:
-        Controller
+        Controller 
 
     Attributes:
         console (Console): An instance of the class of objects known as Console.

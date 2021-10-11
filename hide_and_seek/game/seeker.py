@@ -6,7 +6,7 @@ class Seeker:
     location in pursuit of the Hider.
     
     Stereotype:
-        Information Holder
+        Information Holder 
 
     Attributes:
         location (integer): The location of the Seeker (1-1000).
