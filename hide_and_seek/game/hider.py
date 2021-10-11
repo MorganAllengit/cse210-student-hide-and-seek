@@ -1,3 +1,3 @@
 import random
 
-# TODO: Define the Hider class here
+# TODO: Define the Hider class here 
